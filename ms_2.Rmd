@@ -1,0 +1,49 @@
+---
+title: "Milestone 2"
+author: "Jeremiah Kim"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Project number 1, Analysis of Queen by Hannah Valencia:
+https://hvalencia.shinyapps.io/QueenAnalysis/
+
+As I was scrolling through projects for this milestone, I was absolutely blown
+away by Hannah's project. I was very impressed with how she categorized all of
+Queen's albums by five different features, the way she visualized the
+differences, and how complete each page of her website was with insightful data.
+For instance, her project taught me that Freddie Mercury sang most often in the
+key of D,and that most of his albums do not have a stylistic theme but rather
+cover a large range of emotions, feelings, and valence. This was intuitive to me
+as a Queen fan, but seeing the data certainly altered the way I listen. I even
+found myself testing her data as I was going through her project, by checking a
+specific song's sentiment and features as I listened to it. For cons, I found
+her visualizations to be a little obtuse due to the use of abstract descriptors.
+For instance, how are things like "danceability" and "acousticness" measured?
+Or, what exactly does "valence" tell me? Had she taken the data but presented it
+in more common terms I think I would have connected with the results more.
+Personally, I was not a big fan of the black and purple theme, but that is not
+necessarily a con.
+
+Project number 2, Donations of Harvard-Employed Individuals to 2020 Presidential Campaigns by Miroslav Bergam:
+https://miroslav-bergam.shinyapps.io/HarvardDonations/
+
+Though I was not blown away by Miroslav's project, I was still impressed with
+their graphs and the evidence they provided. By plotting the number of donors,
+unique donors, total donation sum, mean donation sum, and a boxplot of donations
+by candidate, I think they made a very strong case showing that Harvard employed
+individuals disproportionately support people who were also a part of our
+university system. In some sense, this is an obvious conclusion, but displaying
+the data in the way they did affirmed common sense. With that being said, there
+are a couple places in the project where I am totally lost. The first is the
+candidate support flowchart. Because there is no explanation, I have no idea
+what each of the colors mean, and it is hard to tell which line is which because
+of the immense overlapping and neon colors. The second place I am lost is the
+co-efficient plot on the third page. I'm still not sure what a co-efficient
+means in this context, nor am I sure how the x and y axes work. The explanation
+explaining this specific chart is inadequate in my opinion.
+
+Milestone 2 Github Repo: https://github.com/Jeremiahk2000/ms_2
